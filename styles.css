@@ -1,0 +1,58 @@
+.nav-bar{
+    background-image: url(imagenes/logo.webp);
+    display: flex;
+    justify-content: space-between;
+    height: 72px;
+    padding: 0px;
+    position: absolute;
+    max-width: 100%;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 9000;
+    font-size: 100%;
+    color: rgb(42, 42, 42);
+}
+
+.links-bar{
+    color: gray;
+    padding-top: 12px;
+    display: flex;
+    align-items: row;
+    justify-content: space-around;
+    width: 100%;
+  
+    
+}
+.centrar{
+    display: block;
+    align-items: center;
+    padding-top: 6px;
+    font-size: 60px;
+}
+.carousel-inner{
+    width: 60%;
+}
+.class{
+    display: flex;
+    justify-content: space-around;
+}
+.fraces{
+    display: flex;
+    justify-content: space-around;
+}
+.imgEnd{
+    padding: 10px;
+    height: 100%;
+    width: 100%;
+}
+.flecha{
+    padding-right: 100%;
+    text-decoration: none;
+}
+
+
+
+
+
+
